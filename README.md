@@ -99,22 +99,21 @@
 
 
 <details>
-  <summary>Open Source Contributions</summary>
+  <summary>Cosas en la que soy buena</summary>
   <br>
   <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
+    <li><strong>En VideoJuegos - Me encanta Jugar Varios tipos de juegos, e incluso si me recomiendan los juego</li>
+    <li><strong>En Pintar - Hago pinturas en blanco y negro, ademas con pintura, color pastel y ademas en digital</li>
+   <li><strong>Con amigos - Jugamos juegos de mesa, ademas de ponernos apodos ( no malos ) </li>
   </ul>
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary>Inspiracion</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+    “El ayer es historia, elmañana es un misterio y el hoy es un obsequio, por eso se llama presente”
+      "Maestro Oogway"
   </blockquote>
 </details>
 
