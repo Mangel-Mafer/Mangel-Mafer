@@ -118,11 +118,11 @@
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
+  <summary>Chiste</summary>
   <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
+  <small><i> por que el 10 esta asustado? por el 9 y 11 </i></small>
   <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
+  
 </details>
 
 <details>
